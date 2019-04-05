@@ -279,7 +279,7 @@ PRODUCT_COPY_FILES += \
     vendor/vivo/pd1510/proprietary/vendor/lib/libmmcamera_ov8858_2a.so:system/vendor/lib/libmmcamera_ov8858_2a.so \
     vendor/vivo/pd1510/proprietary/vendor/lib/libmmcamera_pdaf.so:system/vendor/lib/libmmcamera_pdaf.so \
     vendor/vivo/pd1510/proprietary/vendor/lib/libmmcamera_pdafcamif.so:system/vendor/lib/libmmcamera_pdafcamif.so \
-    vendor/vivo/pd1510/proprietary/vendor/lib/libmmcamera_s5k4h8.so8d12dbee4e86a7af7ff76a9ff64c339adce8eb36:system/vendor/lib/libmmcamera_s5k4h8.so8d12dbee4e86a7af7ff76a9ff64c339adce8eb36 \
+    vendor/vivo/pd1510/proprietary/vendor/lib/libmmcamera_s5k4h8.so:system/vendor/lib/libmmcamera_s5k4h8.so \
     vendor/vivo/pd1510/proprietary/vendor/lib/libmmcamera_s5k4h8_rear.so:system/vendor/lib/libmmcamera_s5k4h8_rear.so \
     vendor/vivo/pd1510/proprietary/vendor/lib/libmmcamera_s5k4h8_rear_eeprom.so:system/vendor/lib/libmmcamera_s5k4h8_rear_eeprom.so \
     vendor/vivo/pd1510/proprietary/vendor/lib/libmmcamera_s5k5e2.so:system/vendor/lib/libmmcamera_s5k5e2.so \
